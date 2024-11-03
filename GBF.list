@@ -1,0 +1,19 @@
+# GBF
+#USER-AGENT, *SkyLeap*, proxy
+DOMAIN-SUFFIX, granbluefantasy.jp, proxy
+DOMAIN-SUFFIX, mobage.jp, proxy
+DOMAIN-SUFFIX, mbga.jp, proxy
+
+DOMAIN, prd-game-a-granbluefantasy.akamaized.net, proxy
+DOMAIN, prd-game-a1-granbluefantasy.akamaized.net, proxy
+DOMAIN, prd-game-a2-granbluefantasy.akamaized.net, proxy
+DOMAIN, prd-game-a3-granbluefantasy.akamaized.net, proxy
+DOMAIN, prd-game-a4-granbluefantasy.akamaized.net, proxy
+DOMAIN, prd-game-a5-granbluefantasy.akamaized.net, proxy
+
+DOMAIN, prd-game-a-gbf.akamaized.net, proxy
+DOMAIN, prd-game-a1-gbf.akamaized.net, proxy
+DOMAIN, prd-game-a2-gbf.akamaized.net, proxy
+DOMAIN, prd-game-a3-gbf.akamaized.net, proxy
+DOMAIN, prd-game-a4-gbf.akamaized.net, proxy
+DOMAIN, prd-game-a5-gbf.akamaized.net, proxy
