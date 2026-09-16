@@ -1,7 +1,7 @@
 # AliExpress
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,aliexpress-media.com
-DOMAIN-SUFFIX,aliexpress.com
-DOMAIN-SUFFIX,aliexpress.us
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alicdn.com,PROXY
+DOMAIN-SUFFIX,aliexpress-media.com,PROXY
+DOMAIN-SUFFIX,aliexpress.com,PROXY
+DOMAIN-SUFFIX,aliexpress.us,PROXY
+DOMAIN-SUFFIX,alipay.com,PROXY
+DOMAIN-SUFFIX,alipayobjects.com,PROXY
